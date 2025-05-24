@@ -80,7 +80,7 @@ form button {
    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
  }
  .btn-view {
-   background-color: #6b8e23 !important; 
+   background-color: #a3b18a !important; 
    color: white;
    border: none;
    border-radius: 8px;
@@ -102,7 +102,6 @@ form button {
  }
  .sub-container {
    margin-bottom: 40px;
-   background-color: #a3b18a;
  }
 
 
