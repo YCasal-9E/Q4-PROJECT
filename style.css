@@ -58,7 +58,7 @@ header p {
 
 .btn-primary {
   background-color: #656d4a !important;
-  border: none;
+  border: none !important;
   transition: background-color 0.3s ease;
 }
 
