@@ -74,13 +74,13 @@ form button {
   border-radius: 0.5rem;
 }
 .main-container {
-   background-color: #ffffff;
+   background-color: rgba(204,197,185, 0.5) !important;
    border-radius: 12px;
    padding: 30px;
    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
  }
  .btn-view {
-   background-color: #6b8e23; /* Olive green */
+   background-color: #6b8e23 !important; 
    color: white;
    border: none;
    border-radius: 8px;
@@ -88,7 +88,7 @@ form button {
    transition: background-color 0.3s;
  }
  .btn-view:hover {
-   background-color: #556b2f;
+   background-color: #556b2f !important;
  }
  .project-image {
    width: 100%;
@@ -102,6 +102,7 @@ form button {
  }
  .sub-container {
    margin-bottom: 40px;
+   background-color: #a3b18a;
  }
 
 
