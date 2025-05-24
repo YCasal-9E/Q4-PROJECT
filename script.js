@@ -1,4 +1,4 @@
-var stars = document.querySelectorAll('.stars span');
+var stars = document.querySelectorAll('#starRating button');
 var rating = 0;
 
 stars.forEach(star => {
